@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/site-mariage/static/css/main.f944dbcd.css",
+    "main.js": "/site-mariage/static/js/main.98b2ec51.js",
+    "static/media/logo.jpeg": "/site-mariage/static/media/logo.133d58f0fa4336b3570b.jpeg",
+    "index.html": "/site-mariage/index.html",
+    "main.f944dbcd.css.map": "/site-mariage/static/css/main.f944dbcd.css.map",
+    "main.98b2ec51.js.map": "/site-mariage/static/js/main.98b2ec51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f944dbcd.css",
+    "static/js/main.98b2ec51.js"
+  ]
+}
